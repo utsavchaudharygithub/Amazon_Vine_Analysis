@@ -14,7 +14,7 @@ Total 5 stars vine number is 48.
 Percentages of 5 stars reviews is ~51.6%
 <img width="839" alt="Screen Shot 2022-02-28 at 9 55 28 PM" src="https://user-images.githubusercontent.com/91306158/156113413-9bd3200b-6f6f-4094-a5ed-06ed1cc18d43.png">
 
-Total Vine number is 40471.
+Total no-Vine number is 40471.
 Total 5 stars vine number is 15663.
 Percentages of 5 stars reviews is ~38.7%
 <img width="840" alt="Screen Shot 2022-02-28 at 9 55 36 PM" src="https://user-images.githubusercontent.com/91306158/156113580-53c64cb1-0529-4253-a3c1-41b825546154.png">
